@@ -1,0 +1,14 @@
+name: gmpcr
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu128
+      - numpy==2.4.5
+      - torch==2.11.0+cu128
+      - tqdm==4.67.3
+      - python-igraph==1.0.0
+      - open3d==0.19.0
+      - nibabel==5.4.2

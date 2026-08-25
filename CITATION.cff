@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated GMPCR paper."
+title: "GMPCR: Spectral Consistency-Guided Multiview Point Cloud Registration"
+type: software
+version: 1.0.0
+date-released: 2026-08-23
+authors:
+  - family-names: Li
+    given-names: Tianyu
+  - family-names: Lin
+    given-names: Yanghong
+  - family-names: Zhou
+    given-names: Shudong
+  - family-names: Yang
+    given-names: Kui
+  - family-names: Fang
+    given-names: Li
+  - family-names: Yao
+    given-names: Wei
