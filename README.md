@@ -112,7 +112,7 @@ Predicted poses and evaluation logs are written beneath `--save_dir`.
 | ETH | `configs/eth.json` |
 
 With seed 2026, the current full-dataset validation obtained registration
-recalls of **97.1991%** on 3DMatch and **89.6363%** on 3DLoMatch.
+recalls of **97.2%** on 3DMatch and **89.6%** on 3DLoMatch.
 
 ## Reproducibility notes
 
