@@ -19,9 +19,7 @@ conda activate gmpcr
 ## Data preparation
 
 Prepare the benchmark point clouds, keypoint indices, ground-truth logs, and
-YOHO descriptors according to [data/README.md](data/README.md). Data are not
-tracked by Git.
-
+YOHO descriptors according to [data/README.md](data/README.md).
 
 ## Evaluation
 
