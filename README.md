@@ -32,22 +32,6 @@ python main.py \
   --save_dir ./pre/3dmatch
 ```
 
-Supported dataset names are `3dmatch`, `3dLomatch`, `scannet`, and `ETH`.
-The entry point automatically loads the corresponding file from `configs/`.
-To evaluate a single scene, add `--scene <scene-name>`.
-
-Predicted poses and evaluation logs are written beneath `--save_dir`.
-
-## Selected configurations
-
-| Dataset | Configuration |
-|---|---|
-| 3DMatch | `configs/3dmatch.json` |
-| 3DLoMatch | `configs/3dlomatch.json` |
-| ScanNet | `configs/scannet.json` |
-| ETH | `configs/eth.json` |
-
-
 ## Citation
 
 Please cite the associated paper if this code is useful in your work.
